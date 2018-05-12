@@ -3,7 +3,7 @@
 	}
 
 	#message p i {
-       		text-shadow: 4px 3px 0px #322B54, 9px 8px 0px rgba(255, 255, 255, .15) !important;
+       		text-shadow: 4px 3px 0px #000000, 9px 8px 0px rgba(255, 255, 255, .15) !important;
 	}
 
 	#container #list a:nth-child(1) li {
@@ -32,7 +32,7 @@
 
 	#container #list li .text {
 		background: rgba(50,43,84,.7);
-    		text-shadow: 4px 3px 0px #574B90, 9px 8px 0px rgba(255, 255, 255, .15) !important;
+    		text-shadow: 4px 3px 0px #000000, 9px 8px 0px rgba(255, 255, 255, .15) !important;
     	}
 
        	#searchbox {
