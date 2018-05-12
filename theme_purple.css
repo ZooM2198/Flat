@@ -7,27 +7,27 @@
 	}
 
 	#container #list a:nth-child(1) li {
-		background: no-repeat url(background/purple_background_01.png) center;
+		background: no-repeat url(background/purple_background_01.png) top;
 	}
 
 	#container #list a:nth-child(2) li {
-		background: no-repeat url(background/purple_background_02.png) center;
+		background: no-repeat url(background/purple_background_02.png) top;
 	}
 
 	#container #list a:nth-child(3) li {
-		background: no-repeat url(background/purple_background_03.png) center;
+		background: no-repeat url(background/purple_background_03.png) top;
 	}
 
 	#container #list a:nth-child(4) li {
-		background: no-repeat url(background/purple_background_04.png) center;
+		background: no-repeat url(background/purple_background_04.png) top;
 	}
 
 	#container #list a:nth-child(5) li {
-		background: no-repeat url(background/purple_background_05.png) center;
+		background: no-repeat url(background/purple_background_05.png) top;
 	}
 
 	#container #list a:nth-child(6) li {
-		background: no-repeat url(background/purple_background_06.png) center;
+		background: no-repeat url(background/purple_background_06.png) top;
 	}
 
 	#container #list li .text {
